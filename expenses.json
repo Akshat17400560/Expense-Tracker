@@ -1,0 +1,22 @@
+[
+    {
+        "amount": 45.0,
+        "category": "Clothes",
+        "date": "2024-08-02"
+    },
+    {
+        "amount": 3400.0,
+        "category": "Dress",
+        "date": "2025-06-12"
+    },
+    {
+        "amount": 6000.0,
+        "category": "Food",
+        "date": "2025-06-03"
+    },
+    {
+        "amount": 5688.0,
+        "category": "Ticket",
+        "date": "2025-06-25"
+    }
+]
