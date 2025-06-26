@@ -17,7 +17,9 @@ A simple and lightweight personal expense tracker built with Python's `tkinter` 
 
 ## 🖼️ Screenshots
 
-> _(You can add screenshots here later if you like)_
+### 📊 Monthly Summary Pie Chart
+
+![Pie Chart](screenshot.png)
 
 ---
 
@@ -30,11 +32,3 @@ A simple and lightweight personal expense tracker built with Python's `tkinter` 
 - openpyxl (for Excel file support)
 - json (for data persistence)
 
----
-
-## 📦 Installation & Setup
-
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
-   cd expense-tracker
